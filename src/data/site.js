@@ -14,7 +14,7 @@ export const siteConfig = {
   email: "ishanmaiti1234@gmail.com",
   location: "Kolkata, India",
   githubUsername: "Ishan0121",
-  github: "https://github.com/"+githubUsername,
+  github: "https://github.com/Ishan0121",
   linkedin: "https://www.linkedin.com/in/ishan-maiti/",
   resumeUrl: "/docs/ISHAN MAITI_CV2.pdf",
 };
